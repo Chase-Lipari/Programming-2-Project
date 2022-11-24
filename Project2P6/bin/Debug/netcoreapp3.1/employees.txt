@@ -1,0 +1,8 @@
+2020,Lipari,Chase,1.00
+2021,Korman,Tristan,2.00
+2022,Levi,Daniel,3.00
+2023,Meekin,Liam,4.00
+2024,Kastner,Ally,5.00
+2025,Snyder,Kurt,1.00
+2026,Josh,Tyler,1.00
+2027,Tan,Richie,2.00

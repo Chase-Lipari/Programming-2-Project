@@ -1,0 +1,10 @@
+2024       Ally       Kastner    11:40:00   $5.00       $55.00
+2020       Chase      Lipari     04:40:00   $1.00       $4.00
+2022       Daniel     Levi       07:00:00   $3.00       $21.00
+2025       Kurt       Snyder     12:00:00   $1.00       $12.00
+2023       Liam       Meekin     09:20:00   $4.00       $36.00
+2027       Richie     Tan        20:50:00   $2.00       $40.00
+2021       Tristan    Korman     02:20:00   $2.00       $4.00
+2026       Tyler      Josh       12:20:00   $1.00       $12.00
+Total time Worked: 80:10:00
+Total Pay:  184.00
